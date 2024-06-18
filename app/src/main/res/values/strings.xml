@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ComicVerse</string>
+    <string name="title_activity_book">Book</string>
+    <string name="title_activity_trend">Trend</string>
+    <string name="title_activity_coming_soon">ComingSoon</string>
+    <string name="title_activity_book_details">Book_details</string>
+    <string name="title_activity_coming_soon_detail">ComingSoonDetailActivity</string>
+    <string name="title_activity_volume">Volume</string>
+    <string name="title_activity_volume_view_model">VolumeViewModel</string>
+    <string name="title_activity_volume_item">VolumeItem</string>
+    <string name="title_activity_books">Books</string>
+</resources>
